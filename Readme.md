@@ -1,4 +1,4 @@
-# My Awesome Website - Raghave
+# My Awesome Website - Raghav
 
 Welcome to my awesome website! This site is designed to showcase my projects and share my knowledge with the world.
 
